@@ -289,3 +289,11 @@ Full business analysis and narrative are available in `Insights.pdf`.
 This project demonstrates an end-to-end analytical workflow rather than focusing only on dashboard creation.
 
 It combines SQL data preparation and validation, business-rule analysis, profitability modeling, Cost-to-Serve analysis, Power BI visualization, and business recommendations to demonstrate how raw transactional data can be transformed into decision-oriented insights.
+
+## Contact
+
+**Eslam Eid**
+
+📧 Email: [ie1214@fayoum.edu.eg](mailto:ie1214@fayoum.edu.eg)
+
+🔗 LinkedIn: [linkedin.com/in/eslam-eid-80781a202](https://www.linkedin.com/in/eslam-eid-80781a202)
