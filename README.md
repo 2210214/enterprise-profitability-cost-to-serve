@@ -43,15 +43,15 @@ Management needs to understand:
 
 ## Dashboard Preview
 
-[Cost-to-Serve](dashboard/Cost-to-Serve.png)
+![Cost-to-Serve](dashboard/Cost-to-Serve.png)
 
-[dashboard/Customer-Deep-Dive](dashboard/dashboard/Customer-Deep-Dive.png.png)
+![dashboard/Customer-Deep-Dive](dashboard/dashboard/Customer-Deep-Dive.png.png)
 
-[Customer-Profitabilit](dashboard/Customer-Profitability.png)
+![Customer-Profitabilit](dashboard/Customer-Profitability.png)
 
-[Customer-Risk&Profit-Concentration](dashboard/Customer-Risk&Profit-Concentration.png)
+![Customer-Risk&Profit-Concentration](dashboard/Customer-Risk&Profit-Concentration.png)
 
-[Executive Overview ](dashboard/Executive-Overview.png)
+![Executive Overview ](dashboard/Executive-Overview.png)
 
 ## Key Correction From the Project Review
 
