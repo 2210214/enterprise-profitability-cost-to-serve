@@ -45,7 +45,7 @@ Management needs to understand:
 
 ![Cost-to-Serve](dashboard/Cost-to-Serve.png)
 
-![dashboard/Customer-Deep-Dive](dashboard/dashboard/Customer-Deep-Dive.png)
+![dashboard/Customer-Deep-Dive](dashboard/Customer-Deep-Dive.png)
 
 ![Customer-Profitability](dashboard/Customer-Profitability.png)
 
