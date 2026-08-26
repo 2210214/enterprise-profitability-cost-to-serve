@@ -41,6 +41,18 @@ Management needs to understand:
 - How concentrated is our profit across the customer base?
 - Which customers should be prioritized for retention, and which require cost review?
 
+## Dashboard Preview
+
+![Cost-to-Serve Dashboard](dashboard/Cost-to-Serve_Dashboard.png)
+
+![Customer Deep Dive Dashboard](dashboard/Customer Deep Dive_Dashboard.png)
+
+![Customer Profitability Dashboard](dashboard/Customer Profitability_Dashboard.png)
+
+![Customer Risk & Profit Concentration Dashboard](dashboard/Customer Risk & Profit Concentration_Dashboard.png)
+
+![Executive Overview Dashboard](dashboard/Executive Overview_Dashboard.png)
+
 ## Key Correction From the Project Review
 
 The original implementation's Contribution Profit metric excluded Product Cost (COGS), which produced an unrealistic 99.54% contribution margin.
